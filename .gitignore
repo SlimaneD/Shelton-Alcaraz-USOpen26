@@ -1,0 +1,20 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Recreated by the reproducible notebook
+notebook_outputs/
+downloaded_data/
+
+# Earlier exploratory implementation and duplicate exports retained locally
+exploratory_matchup_game.py
+shelton_point_features.py
+matchup_game_outputs/
+/payoff_matrices.jpg
+/payoff_matrices.pdf
+/shelton_alcaraz_payoff_difference.jpg
+/shelton_alcaraz_payoff_difference.pdf
+/shelton_alcaraz_phase_portrait.jpg
+/shelton_alcaraz_phase_portrait.pdf
+/copilotUsage.jpg
