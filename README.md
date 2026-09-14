@@ -1,7 +1,7 @@
 # Shelton–Alcaraz: tennis tactics through data and game theory
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SlimaneD/TennisDataAnalysis/main?labpath=SheltonAlcaraz.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SlimaneD/TennisDataAnalysis/blob/main/SheltonAlcaraz.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SlimaneD/Shelton-Alcaraz-USOpen26/main?labpath=SheltonAlcaraz.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SlimaneD/Shelton-Alcaraz-USOpen26/blob/main/SheltonAlcaraz.ipynb)
 
 Can Ben Shelton gain an advantage by serving wide and sending his serve+1 to the
 opposite side? This project combines point-by-point tennis data with an exploratory
@@ -46,8 +46,8 @@ The analysis requires Python 3.12 or later. For a local run, clone this reposito
 create an environment, and open Jupyter:
 
 ```bash
-git clone https://github.com/SlimaneD/TennisDataAnalysis.git
-cd TennisDataAnalysis
+git clone https://github.com/SlimaneD/Shelton-Alcaraz-USOpen26.git
+cd Shelton-Alcaraz-USOpen26
 python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
