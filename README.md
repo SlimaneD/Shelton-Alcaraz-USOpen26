@@ -1,13 +1,12 @@
-# Shelton–Alcaraz: tennis tactics through data and game theory
+# Shelton–Alcaraz at the 2026 US Open: Using point-by-point data and game theory to anaylze tactical options
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SlimaneD/Shelton-Alcaraz-USOpen26/main?labpath=SheltonAlcaraz.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SlimaneD/Shelton-Alcaraz-USOpen26/blob/main/SheltonAlcaraz.ipynb)
 
-Can Ben Shelton gain an advantage by serving wide and sending his serve+1 to the
-opposite side? This project combines point-by-point tennis data with an exploratory
-two-player game to study that question against Carlos Alcaraz.
+This repository examines Ben Shelton’s serving options ahead of his 2026 US Open quarterfinal against Carlos Alcaraz. I conducted the analysis before the match and published the initial results on LinkedIn; this fully reproducible version was released afterward.
+The central question is whether Shelton could gain an advantage by using a classic combination rather than relying on serve speed alone: serving wide and directing his serve+1 to the opposite side. The project combines point-by-point tennis data with an exploratory two-player game to investigate that question.
 
-**Wide + opposite** means that Shelton serves wide, the return lands in play, and
+We will call this strategy **Wide + opposite**, which means that Shelton serves wide, the return lands in play, and
 his serve+1 goes to the opposite side of the court.
 
 Among Shelton's charted service points with a return in play, the descriptive results
